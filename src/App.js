@@ -130,6 +130,9 @@ export default function App() {
   return (
     <div className="App">
       <h1 style={{}}>Funnn Smilies!!!</h1>
+      <p style={{ fontStyle: "italic" }}>
+        Put a smiley emoji here and we will interprete it
+      </p>
       <input
         style={{
           width: "50%",
