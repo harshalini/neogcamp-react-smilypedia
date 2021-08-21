@@ -7,7 +7,12 @@ var emojiPack = {
   "🤩": "Star-struck",
   "😉": "wink",
   "😍": "Hearty eyes",
-  "😴": "Sleeping face"
+  "😴": "Sleeping face",
+  "😁": "Beaming face with smiling eyes",
+  "😋": "Face Craving for delicious food",
+  "😮": "Face with open mouth",
+  "🥱": "Yawning face",
+  "😛": "Face with tongue"
 };
 
 var emojiDictionary = {
